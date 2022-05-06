@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NODDERS
 - 👀 I’m interested in linguistic
-- 🌱 I’m currently learning Modern Literature
+- 🌱 I’m currently learning Modern Literature & HTML/CSS
 - 💞️ I’m looking to collaborate on linguistic projects
 - 📫 @NODDERS
 
