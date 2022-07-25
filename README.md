@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NODDERS
-- 👀 I’m interested in Arts
-- 🌱 I’m currently learning Visual Arts & HTML/CSS
-- 💞️ I’m looking to collaborate on design projects
+- 👀 I’m interested in Arts & Literature
+- 🌱 I’m currently learning Modern Literature & HTML/CSS
+- 💞️ I’m looking to collaborate on linguistic & design projects
 - 📫 @NODDERS
 
 <!---
